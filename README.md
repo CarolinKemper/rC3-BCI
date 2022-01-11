@@ -125,3 +125,12 @@ Matwyshyn, William & Mary Law Review Vol. 61 (2019) 2019), 77
 ### Regulierung von BCIs (Slides 55 - 56)
 - [Emotiv](https://www.emotiv.com/product/emotiv-epoc-x-14-channel-mobile-brainwear/)
 - [Wikipedia](https://de.wikipedia.org/wiki/Neuralink#/media/Datei:Elon_Musk_presenting_the_Neuralink_master_plan.jpg)
+
+## Links vom Q&A
+- [International Neuroethics Society](https://www.neuroethicssociety.org/)
+- [Cyborgs e. V.](https://cyborgs.cc/): Gesellschaft zur Förderung und kritischen Begleitung der Verschmelzung von Mensch und Technik
+- [NDR](https://www.ndr.de/nachrichten/info/Mehr-Teilhabe-durch-Brain-Computer-Interfaces,braincomputerinterfaces100.html): Mehr Teilhabe durch Brain-Computer-Interfaces
+- [IEEE Spectrium](https://spectrum.ieee.org/neurotech-neurorights): Worldwide Campaign for Neurorights Notches Its First Win
+- [Kübler/Birbaumer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2644824/): Brain-Computer Interfaces and communication in paralysis: extinction of goal directed thinking in completely paralysed patients?
+- [ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2021/10/menschenrechte-auf-die-neurotechnologie-ausweiten.html): Menschenrechte auf die Neurotechnologie ausweiten (Beitrag von Dr. Marcello Ienca)
+- [SOMA](https://www.somaartspace.com/kyoconicotaniyama): Chimera - The Weather in Our Head (real time Brainwave Sculpture)
